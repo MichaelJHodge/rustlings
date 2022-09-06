@@ -1506,6 +1506,69 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "magnusrodseth",
+      "name": "Magnus Rødseth",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59113973?v=4",
+      "profile": "http://magnusrodseth.vercel.app",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "rubiesonthesky",
+      "name": "rubiesonthesky",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2591240?v=4",
+      "profile": "https://github.com/rubiesonthesky",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "GabrielBianconi",
+      "name": "Gabriel Bianconi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1275491?v=4",
+      "profile": "http://www.gabrielbianconi.com/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "Kodylow",
+      "name": "Kody Low",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74332828?v=4",
+      "profile": "https://github.com/Kodylow",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "rzrymiak",
+      "name": "rzrymiak",
+      "avatar_url": "https://avatars.githubusercontent.com/u/106121613?v=4",
+      "profile": "https://github.com/rzrymiak",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "miguelraz",
+      "name": "Miguel Raz Guzmán Macedo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13056181?v=4",
+      "profile": "https://github.com/miguelraz",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "memark",
+      "name": "Magnus Markling",
+      "avatar_url": "https://avatars.githubusercontent.com/u/318504?v=4",
+      "profile": "https://github.com/memark",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 8,
